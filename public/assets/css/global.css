@@ -1,8 +1,4 @@
 
-
-
-
-
 .navbar {
     height: 100%;
     width: 225px;
@@ -11,4 +7,21 @@
     top: 0;
     left: 0;
     background: var(--accent-gradient);
+}
+
+.wrapper {
+    margin-left: 225px;
+    font-size: 0;
+}
+
+.title-card {
+    background: );
+    box-shadow: ;
+    color: black;
+    font-size: var(--font-medium);
+    padding: 10px 10px 10px 10px;
+    margin: 20px auto 0 auto;
+    width: calc(100% - 40px - 20px);
+    border-radius: 10px;
+    display: block;
 }
